@@ -21,5 +21,6 @@
         "Assets/Game/Mods/First-Person-Lighting/Text/[pt]textdatabase.txt",
         "Assets/Game/Mods/First-Person-Lighting/Text/[ru]textdatabase.txt",
         "Assets/Game/Mods/First-Person-Lighting/Text/textdatabase.txt"
-    ]
+    ],
+    "ModPreCompile": true
 }

@@ -172,6 +172,7 @@ namespace FirstPersonLighting
 
                 GameManager.Instance.RightHandWeapon.Tint = PlayerTint;
                 GameManager.Instance.TransportManager.Tint = PlayerTint;
+                ModManager.Instance.SendModMessage("CrossbowsUpscaled", "newTint", PlayerTint);
             }
 
             //If underwater, extinguish player torches/lanterns
